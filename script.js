@@ -8,6 +8,8 @@ const btn = document.querySelector('#theme-switcher');
 
 init();
 
+anmah
+
 function init() {
     let storedMode = sessionStorage.getItem('mode');
     if (!storedMode) {
